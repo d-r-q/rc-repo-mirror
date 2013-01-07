@@ -1,0 +1,126 @@
+
+<html>
+ <head>
+  <title>NamesPro.ca | Register with Confidence</title>
+  <meta name="title" content="NamesPro.ca | Register with Confidence">
+  <meta name="description" content="(description)">
+  <meta name="keywords" content=".ca registrar, .ca, .com, .org, .net, .biz, .us, Canada, Canadian, domain names">
+  <meta name="Classification" content="Domain Name Registration Services, Domain Naming, Top Level Domains">
+  <meta name="robots" content="index, follow">
+  <meta name="revisit-after" content="30 days">
+  <meta name="author" content="NamesPro.ca">
+  <meta http-equiv="imagetoolbar" content="no">
+  <base href="http://www.namespro.ca">
+
+<link rel="StyleSheet" type="text/css" href="include/style_default.css">
+
+  <script language="JavaScript" type="text/javascript">
+  function defaultStatus() {
+   window.status = 'N a m e s P r o . c a';
+  }
+  var myimages = new Array()
+  function preloadimages(){
+   for (i = 0; i < preloadimages.arguments.length; i++) {
+    myimages[i] = new Image();
+    myimages[i].src = 'images/' + preloadimages.arguments[i];
+   }
+  }
+  </script>
+
+ </head>
+ <body>
+  <center>
+
+<form method="post" action="http://www.namespro.ca/SearchResult.asp" name="searchForm" id="searchForm" style="margin: 0 0 0 0;">
+  <input type=hidden name=fromsearch value="Register">
+  <table height=100% border=0 cellpadding=0 cellspacing=0><tr><td><table cellpadding=0 cellspacing=0 border=0 width=588>
+   <tr height=69>
+	 <td rowspan=2 width=1 bgcolor=#E2E2E2><img src="images/space.gif"></td>
+	 <td colspan=2 width=587><img src="images/browsererror_header.gif" width=587 height=69></td>
+	</tr>
+	<tr>
+	 <td>
+     <table cellpadding=0 cellspacing=0 border=0 width=582>
+	   <tr bgcolor=#F7F7F7 height=10><td colspan=2><img src="images/space.gif" width=1 height=10></td></tr>
+		<tr bgcolor=#F7F7F7 height=28>
+		 <td width=33><img src="images/space.gif" width=33 height=1></td>
+		 <td width=549>This page is the future home of:</td>
+		</tr>
+		<tr bgcolor=#C0C0C0 height=1><td colspan=2><img src="images/space.gif"></td></tr>
+		<tr bgcolor=#EFEFEF height=28>
+		 <td>&nbsp;</td>
+		 <td><b>www.horula.ca</b></td>
+		</tr>
+		<tr bgcolor=#C0C0C0 height=1><td colspan=2><img src="images/space.gif"></td></tr>
+		<tr bgcolor=#FFFFFF height=20><td colspan=2><img src="images/space.gif" width=1 height=20></td></tr>
+		<tr bgcolor=#FFFFFF>
+		 <td>&nbsp;</td>
+		 <td>
+
+		 </td>
+		</tr>
+		<tr bgcolor=#FFFFFF height=20><td colspan=2><img src="images/space.gif" width=1 height=20></td></tr>
+		<tr bgcolor=#C0C0C0 height=1><td colspan=2><img src="images/space.gif"></td></tr>
+		<tr bgcolor=#EFEFEF height=28>
+		 <td>&nbsp;</td>
+		 <td><b>register a domain</b></td>
+		</tr>
+		<tr bgcolor=#C0C0C0 height=1><td colspan=2><img src="images/space.gif"></td></tr>
+	   <tr bgcolor=#F7F7F7 height=10><td colspan=2><img src="images/space.gif" width=1 height=10></td></tr>
+		<tr bgcolor=#F7F7F7>
+		 <td>&nbsp;</td>
+		 <td>
+		  Please enter your desired domain and click "search":<br><br>
+		  <table width=519 cellpadding=0 cellspacing=0 border=0>
+		   <tr>
+			 <td><b><font style="position: relative; top: 5;"><nobr>www.&nbsp;</nobr></font></b></td>
+          <td>
+			  <nobr>
+           <input type="text" name="domainName" value="" size=15 maxlength="50" class=REDBORDER style="width: 226px;">
+           <span style="position: relative; top: 2px; left: 4px;"><input type="Image" src="images/button_search.gif" width=59 height=18 border=0></span>
+           </nobr>
+          </td>
+			</tr>
+			<tr>
+			 <td>&nbsp;</td>
+			 <td>
+   <table width=100% border=0 cellpadding=0 cellspacing=0 style="margin: 8 0 0 0;">
+	 <tr>
+     <td width=65><input type="checkbox" name="extension" value=".ca" checked class=NO_LEFT_MARGIN>.ca</td>
+     <td width=65><input type="checkbox" name="extension" value=".com" checked class=NO_LEFT_MARGIN>.com<br></td>
+     <td width=65><input type="checkbox" name="extension" value=".net" checked class=NO_LEFT_MARGIN>.net</td>
+     <td width=65><input type="checkbox" name="extension" value=".org" checked class=NO_LEFT_MARGIN>.org</td>
+     <td align=right valign=bottom>
+	   <a href="http://www.namespro.ca/MultipleSearch.asp">search for multiple domains</a><br>
+	 </tr>
+    <tr>
+     <td><input type="checkbox" name="extension" value=".biz" class=NO_LEFT_MARGIN>.biz</td>
+     <td><input type="checkbox" name="extension" value=".info" class=NO_LEFT_MARGIN>.info</td>
+     <td><input type="checkbox" name="extension" value=".us" class=NO_LEFT_MARGIN>.us</td>
+     <td><input type="checkbox" name="extension" value=".name" class=NO_LEFT_MARGIN>.name</td>
+	  <td align=right>
+      <a href="http://www.namespro.ca/ExtensionSearch.asp">over 25 extensions to choose from</a></td>
+	  </td>
+    </tr>
+	</table>
+          </td>
+  			</tr>
+         <tr height=15><td colspan=4><img src="images/space.gif" width=1 height=15></td></tr>
+		  </table>
+		 </td>
+		</tr>
+		<tr bgcolor=#C0C0C0 height=1><td colspan=2><a href="http://register.namespro.ca/domain.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://register.namespro.ca/domains.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://register.namespro.ca/dot.ca.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://register.namespro.ca/canadian.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registration.namespro.ca/domain.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registration.namespro.ca/domains.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registration.namespro.ca/dot.ca.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registration.namespro.ca/canadian.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registry.namespro.ca/domain.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registry.namespro.ca/domains.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registry.namespro.ca/dot.ca.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://registry.namespro.ca/canadian.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://canadian.namespro.ca/domain.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://canadian.namespro.ca/domains.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://canadian.namespro.ca/dot.ca.html"><img src="images/space.gif" width=1 height=1 border=0></a><a href="http://canadian.namespro.ca/canadian.html"><img src="images/space.gif" width=1 height=1 border=0></a></td></tr>
+		<tr bgcolor=#EFEFEF height=28><td colspan=2><img src="images/space.gif" width=1 height=28></td></tr>
+	  </table>
+	 </td>
+	 <td background="images/index_mainbox_right.gif"><img src="images/space.gif" width=5 height=1></td>
+	</tr>
+	<tr>
+	 <td colspan=4><img src="images/subpage_mainbox_bottom.gif"></td>
+	</tr>
+  </table></td></tr></table>
+  </center>
+  </form>
+
+</body>
+</html>
